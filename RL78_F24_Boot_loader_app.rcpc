@@ -526,8 +526,8 @@
         <NoTargetFile Target="RFDRL78T02\source\codeflash\r_rfd_code_flash_api.c"/>
         <NoTargetFile Target="RFDRL78T02\source\extraarea\r_rfd_extra_area_api.c"/>
         <NoTargetFile Target="RFDRL78T02\source\extraarea\r_rfd_extra_area_security_api.c"/>
-        <NoTargetFile Target="src\smc_gen\r_bsp\mcu\all\cstart.asm"/>
-        <NoTargetFile Target="src\smc_gen\r_bsp\mcu\all\r_bsp_common_ccrl.asm"/>
+        <NoTargetFile Target="PROJECT_LOC\src\smc_gen\r_bsp\mcu\all\cstart.asm"/>
+        <NoTargetFile Target="PROJECT_LOC\src\smc_gen\r_bsp\mcu\all\r_bsp_common_ccrl.asm"/>
         <NoTargetFile Target="f24opt.asm"/>
         <NoTargetFile Target="src\smc_gen\Config_IICA0\Config_IICA0.c"/>
         <NoTargetFile Target="src\smc_gen\Config_IICA0\Config_IICA0_user.c"/>
