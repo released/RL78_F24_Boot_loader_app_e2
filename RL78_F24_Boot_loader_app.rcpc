@@ -19,6 +19,7 @@
       <Path>main.c</Path>
       <Path>misc_config.c</Path>
       <Path>misc_config.h</Path>
+      <Path>srecord_calculation.xlsx</Path>
       <Category Name="RFDRL78T02">
         <Path>RFDRL78T02\Release.txt</Path>
         <Path>RFDRL78T02\Support.txt</Path>
